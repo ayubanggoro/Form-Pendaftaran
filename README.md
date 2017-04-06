@@ -1,5 +1,5 @@
 <body background="book.jpg">
-<marquee behavior="scroll">FORMULIR PENDAFTARAN</marquee>
+<h1>FORMULIR PENDAFTARAN</h1>
 <table border="0">
 <tr>
 <td>Nama<td>:<td><input type="text" name="nama"/></td><tr/>
