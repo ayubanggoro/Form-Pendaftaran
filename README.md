@@ -35,6 +35,5 @@
      <option>jangkar</option></select>
     </td><tr/>
 <tr>
-   <td>
     <td><input type="submit" name="submit" value="simpan"/></td>
     <td><input type="Reset" name="Reset" value="Batal"/></td><tr>
