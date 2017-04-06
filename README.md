@@ -1,11 +1,9 @@
 <html>
-<<<<<<< HEAD
+
 <head>
 <title>Pendaftaran</title>
 </head>
 
-=======
->>>>>>> master
 <body>
 <form method="post">
 <table border="0">
@@ -66,7 +64,6 @@
 </table>
 </body>
 </html>
-<<<<<<< HEAD
 
 <?php
 $nama=isset($_POST['nama'])?$_POST['nama']:'';
@@ -193,5 +190,3 @@ else
 ?>
 
 <font color="red"><h3>Ysabtian.blogspot.com</h3></font>
-=======
->>>>>>> master
