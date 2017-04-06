@@ -1,5 +1,4 @@
 <html>
-<head><title>Form Pendaftaran</title></head>
 <body>
 <table border="4" bgcolor="A9C5EB" align="center" height="500" width="400" cellpadding="20">
 <tr>
