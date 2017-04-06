@@ -20,20 +20,20 @@
 <tr>
 <td>Email<td>:<td><input type="mail" name="email"/></td><tr/>
 <tr>   
-   <td>Kecamatan<td> :
+   <td>Universitas<td> :
     <td>
      <select>
-     <option>Select Kecamatan...</option>
-     <option>wonosari</option>
-     <option>umbulsari</option>
-     <option>Kebunsari</option>
-     <option>Sumbersari</option>
-     <option>Kaliwates</option>
-     <option>Arjasa</option>
-     <option>Jelbuk</option>
-     <option>Ambulu</option>
-     <option>asembagus</option>
-     <option>jangkar</option></select>
+     <option>Select Universitas...</option>
+     <option>UNY</option>
+     <option>UGM</option>
+     <option>UNS</option>
+     <option>Sanata Dharma</option>
+     <option>UIN</option>
+     <option>UII</option>
+     <option>UNMED</option>
+     <option>UAD</option>
+     <option>UTY</option>
+     <option>UKDW</option></select>
     </td><tr/>
 <tr>
     <td><input type="submit" name="submit" value="simpan"/></td>
