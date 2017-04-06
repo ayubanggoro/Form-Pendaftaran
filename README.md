@@ -37,5 +37,4 @@
 <tr>
    <td>
    <td>
-    <td><input type="submit" name="submit" value="simpan"/></td>
-   <td><input type="Reset" name="Reset" value="Batal"/></td></tr>
+    <td><input type="submit" name="submit" value="simpan"/></td><input type="Reset" name="Reset" value="Batal"/></tr>
