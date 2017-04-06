@@ -1,4 +1,3 @@
-<body style="background:url(aventador.jpg);color:#7fff00">
 <h1>FORMULIR PENDAFTARAN</h1>
 <table border="0">
 <tr>
