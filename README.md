@@ -32,9 +32,9 @@
      <option>Jelbuk</option>
      <option>Ambulu</option>
      <option>asembagus</option>
-     <option>jangkar</option>
-     <option>---SELECT---</option></select>
+     <option>jangkar</option></select>
     </td><tr/>
 <tr>
-   <td><input type="submit" name="submit" value="simpan"/></td>
+   <td>
+    <td><input type="submit" name="submit" value="simpan"/></td>
    <td><input type="Reset" name="Reset" value="Batal"/></td></tr>
