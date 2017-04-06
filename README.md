@@ -1,7 +1,4 @@
-<html>
-<head>
-<title>FORMULIR</title></head>
-<body style="background:none;color:blue">
+<body style="background:url(aventador.jpg);color:#7fff00">
 <h1>FORMULIR PENDAFTARAN</h1>
 <table border="0">
 <tr>
@@ -44,4 +41,3 @@
    <td><input type="Reset" name="Reset" value="Batal"/></td></tr>
   </table>
  </body>
-</html> 
