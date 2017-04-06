@@ -1,6 +1,6 @@
 <html>
 <head><title>Form Pendaftaran</title></head>
-<body>
+
 <table border="4" bgcolor="A9C5EB" align="center" height="500" width="400" cellpadding="20">
 <tr>
 <td>
@@ -104,7 +104,7 @@
 <input type="radio" name="Kelamin" value="L">Laki Laki
 <input type="radio" name="Kelamin" value="P">Perempuan
 <br><br>
-<input value="Kirim" style="background-color: 4985D0; height: 50; width: 150;"type="submit">
+
 </td>
 </tr>
 
