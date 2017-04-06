@@ -1,4 +1,4 @@
-<body background="book.jpg">
+<body>
 <h1>FORMULIR PENDAFTARAN</h1>
 <table border="0">
 <tr>
