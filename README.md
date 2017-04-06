@@ -1,7 +1,7 @@
 <html>
 <head>
 <title>FORMULIR</title></head>
-<body style="background:url(aventador.jpg);color:#7fff00">
+<body style="background:none;color:blue">
 <h1>FORMULIR PENDAFTARAN</h1>
 <table border="0">
 <tr>
